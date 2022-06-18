@@ -48,15 +48,8 @@ below:
 * Find and open the code challenge assignment and download the linked ZIP file
 * Unzip the file on your computer
 * In your terminal, change directory (`cd`) into the unzipped challenge directory
-* Run `ls`; you should see a `bin/` directory and a `code-challenge.bundle` file)
-* Run `ruby bin/start <your-name>`  from the directory; this will create a new
-  directory called `code-challenge/`
-* `cd` into the new `code-challenge/` directory and open it in your code editor
+* Run `ls`; you should see a `bin/` directory and a `codcode-challenge-instructions-and-example
 
-To work on your code challenge:
-
-* Ensure that you're in the `code-challenge/` directory
-* Follow the instructions in the `README.md` file
 * `git add .` and `git commit` inside of the `code-challenge/` directory often
   as you're working
 
